@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hrist\\source\\repos\\01.IntegerOperations\\06.TriplesOfLatinLetters\\06.TriplesOfLatinLetters.csproj",
+      "projectUniqueName": "C:\\Users\\hrist\\source\\repos\\DataTypesandVariables-Exercise_21.09.23\\06.TriplesOfLatinLetters\\06.TriplesOfLatinLetters.csproj",
       "projectName": "06.TriplesOfLatinLetters",
-      "projectPath": "C:\\Users\\hrist\\source\\repos\\01.IntegerOperations\\06.TriplesOfLatinLetters\\06.TriplesOfLatinLetters.csproj",
+      "projectPath": "C:\\Users\\hrist\\source\\repos\\DataTypesandVariables-Exercise_21.09.23\\06.TriplesOfLatinLetters\\06.TriplesOfLatinLetters.csproj",
       "packagesPath": "C:\\Users\\hrist\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hrist\\source\\repos\\01.IntegerOperations\\06.TriplesOfLatinLetters\\obj\\",
+      "outputPath": "C:\\Users\\hrist\\source\\repos\\DataTypesandVariables-Exercise_21.09.23\\06.TriplesOfLatinLetters\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Programs\\Visual Studio 2022\\install\\Shared\\NuGetPackages"

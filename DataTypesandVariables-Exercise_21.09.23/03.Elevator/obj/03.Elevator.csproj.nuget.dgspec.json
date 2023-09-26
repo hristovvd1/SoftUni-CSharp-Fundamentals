@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hrist\\source\\repos\\01.IntegerOperations\\03.Elevator\\03.Elevator.csproj": {}
+    "C:\\Users\\hrist\\source\\repos\\DataTypesandVariables-Exercise_21.09.23\\03.Elevator\\03.Elevator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hrist\\source\\repos\\01.IntegerOperations\\03.Elevator\\03.Elevator.csproj": {
+    "C:\\Users\\hrist\\source\\repos\\DataTypesandVariables-Exercise_21.09.23\\03.Elevator\\03.Elevator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hrist\\source\\repos\\01.IntegerOperations\\03.Elevator\\03.Elevator.csproj",
+        "projectUniqueName": "C:\\Users\\hrist\\source\\repos\\DataTypesandVariables-Exercise_21.09.23\\03.Elevator\\03.Elevator.csproj",
         "projectName": "03.Elevator",
-        "projectPath": "C:\\Users\\hrist\\source\\repos\\01.IntegerOperations\\03.Elevator\\03.Elevator.csproj",
+        "projectPath": "C:\\Users\\hrist\\source\\repos\\DataTypesandVariables-Exercise_21.09.23\\03.Elevator\\03.Elevator.csproj",
         "packagesPath": "C:\\Users\\hrist\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hrist\\source\\repos\\01.IntegerOperations\\03.Elevator\\obj\\",
+        "outputPath": "C:\\Users\\hrist\\source\\repos\\DataTypesandVariables-Exercise_21.09.23\\03.Elevator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Programs\\Visual Studio 2022\\install\\Shared\\NuGetPackages"

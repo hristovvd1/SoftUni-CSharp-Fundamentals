@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hrist\\source\\repos\\01.IntegerOperations\\08.BeerKegs\\08.BeerKegs.csproj",
+      "projectUniqueName": "C:\\Users\\hrist\\source\\repos\\DataTypesandVariables-Exercise_21.09.23\\08.BeerKegs\\08.BeerKegs.csproj",
       "projectName": "08.BeerKegs",
-      "projectPath": "C:\\Users\\hrist\\source\\repos\\01.IntegerOperations\\08.BeerKegs\\08.BeerKegs.csproj",
+      "projectPath": "C:\\Users\\hrist\\source\\repos\\DataTypesandVariables-Exercise_21.09.23\\08.BeerKegs\\08.BeerKegs.csproj",
       "packagesPath": "C:\\Users\\hrist\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hrist\\source\\repos\\01.IntegerOperations\\08.BeerKegs\\obj\\",
+      "outputPath": "C:\\Users\\hrist\\source\\repos\\DataTypesandVariables-Exercise_21.09.23\\08.BeerKegs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Programs\\Visual Studio 2022\\install\\Shared\\NuGetPackages"
