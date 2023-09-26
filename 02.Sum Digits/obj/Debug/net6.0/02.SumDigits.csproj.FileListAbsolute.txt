@@ -1,0 +1,14 @@
+C:\Users\hrist\source\repos\01.IntegerOperations\02.Sum Digits\bin\Debug\net6.0\02.SumDigits.exe
+C:\Users\hrist\source\repos\01.IntegerOperations\02.Sum Digits\bin\Debug\net6.0\02.SumDigits.deps.json
+C:\Users\hrist\source\repos\01.IntegerOperations\02.Sum Digits\bin\Debug\net6.0\02.SumDigits.runtimeconfig.json
+C:\Users\hrist\source\repos\01.IntegerOperations\02.Sum Digits\bin\Debug\net6.0\02.SumDigits.dll
+C:\Users\hrist\source\repos\01.IntegerOperations\02.Sum Digits\bin\Debug\net6.0\02.SumDigits.pdb
+C:\Users\hrist\source\repos\01.IntegerOperations\02.Sum Digits\obj\Debug\net6.0\02.SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\01.IntegerOperations\02.Sum Digits\obj\Debug\net6.0\02.SumDigits.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\01.IntegerOperations\02.Sum Digits\obj\Debug\net6.0\02.SumDigits.AssemblyInfo.cs
+C:\Users\hrist\source\repos\01.IntegerOperations\02.Sum Digits\obj\Debug\net6.0\02.SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\01.IntegerOperations\02.Sum Digits\obj\Debug\net6.0\02.SumDigits.dll
+C:\Users\hrist\source\repos\01.IntegerOperations\02.Sum Digits\obj\Debug\net6.0\refint\02.SumDigits.dll
+C:\Users\hrist\source\repos\01.IntegerOperations\02.Sum Digits\obj\Debug\net6.0\02.SumDigits.pdb
+C:\Users\hrist\source\repos\01.IntegerOperations\02.Sum Digits\obj\Debug\net6.0\02.SumDigits.genruntimeconfig.cache
+C:\Users\hrist\source\repos\01.IntegerOperations\02.Sum Digits\obj\Debug\net6.0\ref\02.SumDigits.dll

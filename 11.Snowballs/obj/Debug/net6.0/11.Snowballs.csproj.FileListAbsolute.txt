@@ -1,0 +1,14 @@
+C:\Users\hrist\source\repos\01.IntegerOperations\11.Snowballs\bin\Debug\net6.0\11.Snowballs.exe
+C:\Users\hrist\source\repos\01.IntegerOperations\11.Snowballs\bin\Debug\net6.0\11.Snowballs.deps.json
+C:\Users\hrist\source\repos\01.IntegerOperations\11.Snowballs\bin\Debug\net6.0\11.Snowballs.runtimeconfig.json
+C:\Users\hrist\source\repos\01.IntegerOperations\11.Snowballs\bin\Debug\net6.0\11.Snowballs.dll
+C:\Users\hrist\source\repos\01.IntegerOperations\11.Snowballs\bin\Debug\net6.0\11.Snowballs.pdb
+C:\Users\hrist\source\repos\01.IntegerOperations\11.Snowballs\obj\Debug\net6.0\11.Snowballs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\01.IntegerOperations\11.Snowballs\obj\Debug\net6.0\11.Snowballs.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\01.IntegerOperations\11.Snowballs\obj\Debug\net6.0\11.Snowballs.AssemblyInfo.cs
+C:\Users\hrist\source\repos\01.IntegerOperations\11.Snowballs\obj\Debug\net6.0\11.Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\01.IntegerOperations\11.Snowballs\obj\Debug\net6.0\11.Snowballs.dll
+C:\Users\hrist\source\repos\01.IntegerOperations\11.Snowballs\obj\Debug\net6.0\refint\11.Snowballs.dll
+C:\Users\hrist\source\repos\01.IntegerOperations\11.Snowballs\obj\Debug\net6.0\11.Snowballs.pdb
+C:\Users\hrist\source\repos\01.IntegerOperations\11.Snowballs\obj\Debug\net6.0\11.Snowballs.genruntimeconfig.cache
+C:\Users\hrist\source\repos\01.IntegerOperations\11.Snowballs\obj\Debug\net6.0\ref\11.Snowballs.dll

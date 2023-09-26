@@ -1,0 +1,14 @@
+C:\Users\hrist\source\repos\01.IntegerOperations\04.SumOfChars\bin\Debug\net6.0\04.SumOfChars.exe
+C:\Users\hrist\source\repos\01.IntegerOperations\04.SumOfChars\bin\Debug\net6.0\04.SumOfChars.deps.json
+C:\Users\hrist\source\repos\01.IntegerOperations\04.SumOfChars\bin\Debug\net6.0\04.SumOfChars.runtimeconfig.json
+C:\Users\hrist\source\repos\01.IntegerOperations\04.SumOfChars\bin\Debug\net6.0\04.SumOfChars.dll
+C:\Users\hrist\source\repos\01.IntegerOperations\04.SumOfChars\bin\Debug\net6.0\04.SumOfChars.pdb
+C:\Users\hrist\source\repos\01.IntegerOperations\04.SumOfChars\obj\Debug\net6.0\04.SumOfChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\01.IntegerOperations\04.SumOfChars\obj\Debug\net6.0\04.SumOfChars.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\01.IntegerOperations\04.SumOfChars\obj\Debug\net6.0\04.SumOfChars.AssemblyInfo.cs
+C:\Users\hrist\source\repos\01.IntegerOperations\04.SumOfChars\obj\Debug\net6.0\04.SumOfChars.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\01.IntegerOperations\04.SumOfChars\obj\Debug\net6.0\04.SumOfChars.dll
+C:\Users\hrist\source\repos\01.IntegerOperations\04.SumOfChars\obj\Debug\net6.0\refint\04.SumOfChars.dll
+C:\Users\hrist\source\repos\01.IntegerOperations\04.SumOfChars\obj\Debug\net6.0\04.SumOfChars.pdb
+C:\Users\hrist\source\repos\01.IntegerOperations\04.SumOfChars\obj\Debug\net6.0\04.SumOfChars.genruntimeconfig.cache
+C:\Users\hrist\source\repos\01.IntegerOperations\04.SumOfChars\obj\Debug\net6.0\ref\04.SumOfChars.dll
